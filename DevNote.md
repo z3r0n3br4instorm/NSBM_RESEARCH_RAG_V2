@@ -11,3 +11,6 @@ DATE - ID - Description
 25/2/2025 - 1 - tokenized output was checked and sliced to 512
 1//3/2025 - 2 - Switched to the relatively larger counterpart of it, that is based on llama-3.2, which is 
                 `cognitivecomputations/Dolphin3.0-Llama3.2-3B`. And added the truncation system as well just in case
+
+# TODO
+- Implementing memory chain
